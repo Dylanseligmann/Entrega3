@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Nesquik",
+    "description": "cacao powder",
+    "price": 5,
+    "thumbnail": "Cocoa powder for them kids.jpg",
+    "code": 0,
+    "stock": 100
+  },
+  {
+    "title": "Banana",
+    "description": "Banana Smoothie",
+    "price": 8,
+    "thumbnail": "ExtraLarge.jpg",
+    "code": 1,
+    "stock": 20
+  },
+  {
+    "title": "Caramel",
+    "description": "Caramel",
+    "price": 8,
+    "thumbnail": "ExtraLarge.jpg",
+    "code": 2,
+    "stock": 20
+  },
+  {
+    "title": "Pineapple",
+    "description": "Pineapple Smoothie",
+    "price": 8,
+    "thumbnail": "ExtraLarge.jpg",
+    "code": 3,
+    "stock": 20
+  },
+  {
+    "title": "Popcorn",
+    "description": "Banana Smoothie",
+    "price": 8,
+    "thumbnail": "ExtraLarge.jpg",
+    "code": 4,
+    "stock": 20
+  }
+]
