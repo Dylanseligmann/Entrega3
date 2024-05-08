@@ -51,14 +51,15 @@ export default class ProductManager {
     }
 
     // Add a new product
-    addProduct(title, description, price, thumbnail, stock) {
+    addProduct(title, description, price, thumbnail, stock, status) {
         const product = {
             title,
             description,
             price,
             thumbnail,
             code: ++this.maxCode, // Increment the maximum code by 1 to ensure uniqueness
-            stock
+            stock,
+            status
         };
         this.products.push(product);
         this.saveProducts();
